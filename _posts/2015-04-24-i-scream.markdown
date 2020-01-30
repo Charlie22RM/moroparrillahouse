@@ -3,7 +3,7 @@ title:  "Costillas con salsa BBQ y papas fritas."
 
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/bb.jpg"
 date:   2015-04-24 12:12:12
 ---
 
