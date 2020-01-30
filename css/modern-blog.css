@@ -281,6 +281,7 @@ a:focus {
 
 .links {
 	margin: 2em 0 0;
+	list-style: none;
 }
 
 .links a {
