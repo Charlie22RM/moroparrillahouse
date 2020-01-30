@@ -1,6 +1,6 @@
 ---
 title:  "Almuerzo Light."
-subtitle: "A Beautiful shot during the night."
+
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
