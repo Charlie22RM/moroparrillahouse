@@ -1,5 +1,5 @@
 ---
-title:  "Moro Parrila"
+title:  "Arroz con menestra y carne"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
