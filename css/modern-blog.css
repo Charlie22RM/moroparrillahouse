@@ -292,6 +292,9 @@ a:focus {
 	display: inline-block;
 	margin: 0 .5em;
 }
+nav {
+    border: 1px solid color: #003366;
+}
 
 /* cards wrapper and close btn */
 
