@@ -1,7 +1,7 @@
 ---
 title:  "Moro Parrilla."
 
-author: "Wferr"
+author: "Moro Parrila House"
 avatar: "img/authors/wferr.png"
 image: "img/aa.jpg"
 date:   2015-04-25 12:12:12
